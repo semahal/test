@@ -1,0 +1,7 @@
+(* Variables *)
+HMI_minExtra	dint	constant	1	Minimum value
+
+
+(*Code*)
+HMI_minExtra := Hmi_minExtra + 1;
+
